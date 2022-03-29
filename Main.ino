@@ -1,7 +1,6 @@
 
 #include "arduino_secrets.h"
 #include "thingProperties.h"
-
 #include <OneWire.h>                // One wire zbernica
 #include <DallasTemperature.h>      // Dallas kniznica
 
