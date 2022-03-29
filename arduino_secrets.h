@@ -1,3 +1,3 @@
-#define SECRET_SSID "SIEMENS AP"  //Enter WIFI NAME
-#define SECRET_PASS "11112222"  //Enter WIFI PASSWORD
-#define SECRET_DEVICE_KEY "1ZLTIFIMATYUTVPIVIFM"  //Enter Secret Key
+#define SECRET_SSID "***"  //Enter WIFI NAME
+#define SECRET_PASS "***"  //Enter WIFI PASSWORD
+#define SECRET_DEVICE_KEY "***"  //Enter Secret Key
